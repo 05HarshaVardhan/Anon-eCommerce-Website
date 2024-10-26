@@ -32,7 +32,7 @@ git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 
 ## Contact
 
-If you want to contact me you can reach me at [LinkedIn]((https://www.linkedin.com/in/k-sai-harsha-vardhan-29a0b4260/)).
+If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/k-sai-harsha-vardhan-29a0b4260/).
 
 ## License
 
